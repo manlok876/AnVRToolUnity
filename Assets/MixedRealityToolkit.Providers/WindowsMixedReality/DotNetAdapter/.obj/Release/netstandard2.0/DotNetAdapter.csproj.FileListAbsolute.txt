@@ -1,0 +1,7 @@
+D:\Documents\2study\Coursework_HSE\UnityProjects\Coursework_unity\Assets\MixedRealityToolkit.Providers\WindowsMixedReality\DotNetAdapter\Plugins\netstandard2.0\DotNetAdapter.deps.json
+D:\Documents\2study\Coursework_HSE\UnityProjects\Coursework_unity\Assets\MixedRealityToolkit.Providers\WindowsMixedReality\DotNetAdapter\Plugins\netstandard2.0\Microsoft.Windows.MixedReality.DotNetWinRT.dll.meta
+D:\Documents\2study\Coursework_HSE\UnityProjects\Coursework_unity\Assets\MixedRealityToolkit.Providers\WindowsMixedReality\DotNetAdapter\Plugins\netstandard2.0\System.Drawing.Primitives.dll.meta
+D:\Documents\2study\Coursework_HSE\UnityProjects\Coursework_unity\Assets\MixedRealityToolkit.Providers\WindowsMixedReality\DotNetAdapter\Plugins\netstandard2.0\Microsoft.Windows.MixedReality.DotNetWinRT.dll
+D:\Documents\2study\Coursework_HSE\UnityProjects\Coursework_unity\Assets\MixedRealityToolkit.Providers\WindowsMixedReality\DotNetAdapter\Plugins\netstandard2.0\System.Drawing.Primitives.dll
+D:\Documents\2study\Coursework_HSE\UnityProjects\Coursework_unity\Assets\MixedRealityToolkit.Providers\WindowsMixedReality\DotNetAdapter\.obj\Release\netstandard2.0\DotNetAdapter.csprojAssemblyReference.cache
+D:\Documents\2study\Coursework_HSE\UnityProjects\Coursework_unity\Assets\MixedRealityToolkit.Providers\WindowsMixedReality\DotNetAdapter\.obj\Release\netstandard2.0\DotNetAdapter.csproj.CopyComplete
